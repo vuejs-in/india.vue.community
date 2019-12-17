@@ -15,7 +15,7 @@ agenda:
     speaker: Rajasegar Chandran <@rajasegar_c>
     description: Codemod is a mechanism to make sweeping changes across your code with ease and effectiveness, assisting in large-scale migrations of the code-base. This can be performed through automated tools such as jscodeshift.
     bio: Rajasegar works with Freshworks as a front-end developer. He is passionate about open-source software and currently writes codemods for the Ember community.
-    # deck: https://github.com/vuehyd/hub/blob/master/01-assemble/decks/assemble-talk-1.pdf
+    deck: https://slides.com/rajasegarchandiran/codemods-vue
   - title: Introduction to Web Components
     type: talk
     speaker: Nagaraj Hubli <@nagaraj_hubli>
