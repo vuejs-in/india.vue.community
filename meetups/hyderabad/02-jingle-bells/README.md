@@ -27,7 +27,7 @@ agenda:
     speaker: Ayush Akhoury
     description: I will be covering VueX ORM plugin. It  is a plugin for Vuex to enable Object-Relational Mapping access to the Vuex Store. It helps to deal with nested/relational data on the front-end by decoupling them into separate modules.
     bio: Frontend Engineer at FactSet
-    # deck: https://www.canva.com/design/DADqrYoCIt4/XtSLABwMQSp_5PdECnZwZQ/view
+    deck: https://pro.ispringcloud.com/acc/wrV9x3UzNzkzNA/s/37934-opfNv-7391S-sB5ws
 sponsors:
   - type: T-Shirt
     sponsor: Voicezen<@voicezen>
