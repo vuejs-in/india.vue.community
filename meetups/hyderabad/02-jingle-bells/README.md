@@ -31,7 +31,7 @@ agenda:
 sponsors:
   - type: T-Shirt
     sponsor: Voicezen<@voicezen>
-  - type: Venue and Snacks
+  - type: Venue, Snacks, T-Shirt
     sponsor: FactSet <@FactSet>
 organizers:
   - Praveen Puglia <@praveenpuglia>
