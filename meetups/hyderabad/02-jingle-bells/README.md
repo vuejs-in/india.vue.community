@@ -21,7 +21,7 @@ agenda:
     speaker: Nagaraj Hubli <@nagaraj_hubli>
     description: I will be covering the importance of Web Components, and how they are natural evolution of the Web, along with a brief case study of how it helped bootstrap applications in a large enterprise.
     bio: I work at Pramati Technologies as a front end web developer, and spends all my free time studying about Bitcoin.
-    # deck: https://www.canva.com/design/DADqrYoCIt4/XtSLABwMQSp_5PdECnZwZQ/view
+    deck: https://www.canva.com/design/DADt4vLEo0Y/oCECV6Oxi3rIlhJi5BNgpQ/view
   - title: Vuex ORM
     type: talk
     speaker: Ayush Akhoury
