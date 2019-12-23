@@ -40,5 +40,5 @@ organizers:
 ---
 
 <EventPage />
-## Google Photos Album 
-[https://photos.app.goo.gl/BU6QXzECrQBTG2dB9](https://photos.app.goo.gl/BU6QXzECrQBTG2dB9)
+## Google Photos Album
+https://photos.app.goo.gl/dKY5yXg9URmKt1Ko6
